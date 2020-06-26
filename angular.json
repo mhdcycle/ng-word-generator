@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "word-generator"
+    }
+  },
+  "defaultProject": "word-generator",
+  "cli": {
+    "analytics": "acc71250-e178-4a28-a1f5-1bfc7a39da1a"
+  }
 }
